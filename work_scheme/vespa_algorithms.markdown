@@ -7,7 +7,7 @@
 ### Динамический WAND
 [Может быть полезно](https://www.researchgate.net/publication/221613425_Efficient_query_evaluation_using_a_two-level_retrieval_process)\
 Согласно статье, этот метод работает кратно быстрее обычного BM25 и практически без потери точности. \ 
-Минусы: мы не можем определять функцию оценки. \
+
 0.16 @rank10.
 [Пример](https://github.com/vespa-engine/sample-apps/tree/master/transformers)
 ## Плотное извлечение с помощью Transformer
