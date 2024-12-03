@@ -42,7 +42,7 @@
 По результатам тестирования с colbert выдал: 0.39 @rank10.(с моделью)
 
 ### Примеры
-- [Пример: bm25 + SPLADE](https://github.com/vespa-engine/sample-apps/tree/master/visual-retrieval-colpali)
+- [Пример: bm25 + SPLADE](https://github.com/vespa-engine/sample-apps/tree/master/splade)
 # Более подробные описания алгоритмов/функций
 ### BM25
 Функция ранжирования для оценки релевантности текстового документа по поисковому запросу \
